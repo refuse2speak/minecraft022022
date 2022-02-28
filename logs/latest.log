@@ -1,77 +1,65 @@
-[09:39:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:39:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:39:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:39:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:39:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:39:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:39:17] [Worker-Main-2/INFO]: Loaded 7 recipes
-[09:39:17] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[09:39:20] [Server thread/INFO]: Starting minecraft server version 1.18.2 Pre-release 3
-[09:39:20] [Server thread/INFO]: Loading properties
-[09:39:20] [Server thread/INFO]: Default game type: SURVIVAL
-[09:39:20] [Server thread/INFO]: Generating keypair
-[09:39:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:39:20] [Server thread/INFO]: Using epoll channel type
-[09:39:20] [Server thread/INFO]: Preparing level "world"
-[09:39:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:39:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:39:38] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[09:39:39] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[09:39:39] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[09:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[09:39:40] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[09:39:41] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[09:39:41] [Worker-Main-2/INFO]: Preparing spawn area: 19%
-[09:39:42] [Worker-Main-2/INFO]: Preparing spawn area: 27%
-[09:39:42] [Worker-Main-2/INFO]: Preparing spawn area: 40%
-[09:39:43] [Worker-Main-2/INFO]: Preparing spawn area: 61%
-[09:39:43] [Worker-Main-2/INFO]: Preparing spawn area: 74%
-[09:39:44] [Worker-Main-2/INFO]: Preparing spawn area: 91%
-[09:39:44] [Server thread/INFO]: Time elapsed: 14238 ms
-[09:39:44] [Server thread/INFO]: Done (24.222s)! For help, type "help"
-[09:39:57] [User Authenticator #1/INFO]: UUID of player ichbinfabio is 8e349899-9614-499b-bafe-e5722d434c64
-[09:39:58] [Server thread/INFO]: ichbinfabio[/84.128.115.36:51776] logged in with entity id 398 at (-1558.7956884301718, 65.0, -234.54155735862224)
-[09:39:58] [Server thread/INFO]: ichbinfabio joined the game
-[10:12:03] [Server thread/INFO]: ichbinfabio lost connection: Disconnected
-[10:12:03] [Server thread/INFO]: ichbinfabio left the game
-[10:23:14] [User Authenticator #2/INFO]: UUID of player ichbinfabio is 8e349899-9614-499b-bafe-e5722d434c64
-[10:23:14] [Server thread/INFO]: ichbinfabio[/84.128.115.36:51866] logged in with entity id 6837 at (-1502.3272079123528, 31.0, -137.74777378031126)
-[10:23:14] [Server thread/INFO]: ichbinfabio joined the game
-[11:02:38] [Server thread/INFO]: [ichbinfabio: Summoned new Area Effect Cloud]
-[11:02:52] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
-[11:02:57] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
-[11:03:04] [Server thread/INFO]: [ichbinfabio: Set the time to 1000]
-[11:05:54] [Server thread/INFO]: ichbinfabio lost connection: Disconnected
-[11:05:54] [Server thread/INFO]: ichbinfabio left the game
-[11:08:58] [User Authenticator #3/INFO]: UUID of player ichbinfabio is 8e349899-9614-499b-bafe-e5722d434c64
-[11:08:58] [Server thread/INFO]: ichbinfabio[/84.128.115.36:52007] logged in with entity id 16179 at (-1527.9955450019245, 65.0, -170.16454475336548)
-[11:08:58] [Server thread/INFO]: ichbinfabio joined the game
-[11:09:22] [Server thread/INFO]: ichbinfabio lost connection: Disconnected
-[11:09:22] [Server thread/INFO]: ichbinfabio left the game
-[11:10:25] [User Authenticator #4/INFO]: UUID of player ichbinfabio is 8e349899-9614-499b-bafe-e5722d434c64
-[11:10:26] [Server thread/INFO]: ichbinfabio[/84.128.115.36:52029] logged in with entity id 16294 at (-1526.4374714874532, 66.0, -163.70121970882548)
-[11:10:26] [Server thread/INFO]: ichbinfabio joined the game
-[11:16:41] [Server thread/INFO]: [ichbinfabio: Applied enchantment Fortune III to ichbinfabio's item]
-[11:21:02] [Server thread/INFO]: [ichbinfabio: Set own game mode to Spectator Mode]
-[11:21:27] [Server thread/INFO]: [ichbinfabio: Set own game mode to Survival Mode]
-[11:25:09] [Server thread/INFO]: [ichbinfabio: Summoned new Zombie]
-[11:27:18] [Server thread/INFO]: ichbinfabio has made the advancement [Hot Stuff]
-[11:31:03] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
-[11:31:04] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
-[11:31:51] [Server thread/INFO]: ichbinfabio lost connection: Disconnected
-[11:31:51] [Server thread/INFO]: ichbinfabio left the game
+[09:28:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:28:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:28:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:28:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:28:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:28:38] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:28:39] [Worker-Main-2/INFO]: Loaded 7 recipes
+[09:28:39] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[09:28:42] [Server thread/INFO]: Starting minecraft server version 1.18.2 Pre-release 3
+[09:28:42] [Server thread/INFO]: Loading properties
+[09:28:42] [Server thread/INFO]: Default game type: SURVIVAL
+[09:28:42] [Server thread/INFO]: Generating keypair
+[09:28:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:28:43] [Server thread/INFO]: Using epoll channel type
+[09:28:43] [Server thread/INFO]: Preparing level "world"
+[09:28:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:28:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:57] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:29:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:29:00] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[09:29:01] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[09:29:01] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[09:29:02] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[09:29:02] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[09:29:03] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[09:29:03] [Worker-Main-2/INFO]: Preparing spawn area: 29%
+[09:29:04] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[09:29:04] [Worker-Main-2/INFO]: Preparing spawn area: 56%
+[09:29:05] [Worker-Main-2/INFO]: Preparing spawn area: 82%
+[09:29:06] [Server thread/INFO]: Time elapsed: 13110 ms
+[09:29:06] [Server thread/INFO]: Done (22.641s)! For help, type "help"
+[09:29:53] [User Authenticator #1/INFO]: UUID of player ichbinfabio is 8e349899-9614-499b-bafe-e5722d434c64
+[09:29:54] [Server thread/INFO]: ichbinfabio[/84.128.115.36:52436] logged in with entity id 314 at (-1520.8672667527176, 82.0, -97.43991753957177)
+[09:29:54] [Server thread/INFO]: ichbinfabio joined the game
+[09:37:41] [Server thread/INFO]: [ichbinfabio: Set own game mode to Creative Mode]
+[09:45:56] [Server thread/INFO]: [ichbinfabio: Set the time to 1000]
+[09:54:10] [Server thread/INFO]: [ichbinfabio: Set own game mode to Survival Mode]
+[09:54:31] [Server thread/INFO]: ichbinfabio fell off a ladder
+[09:54:48] [Server thread/INFO]: [ichbinfabio: Teleported ichbinfabio to -1545.710000, 74.560000, -125.160000]
+[11:05:21] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
+[11:06:10] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
+[11:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4211ms or 84 ticks behind
+[11:20:49] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
+[11:23:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3639ms or 72 ticks behind
+[11:30:50] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
+[11:56:27] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
+[11:56:33] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
+[11:56:38] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
+[12:01:50] [Server thread/INFO]: ichbinfabio was slain by Iron Golem
+[12:01:58] [Server thread/INFO]: ichbinfabio was slain by Iron Golem
+[12:07:40] [Server thread/INFO]: [ichbinfabio: Summoned new Villager]
+[12:13:24] [Server thread/INFO]: ichbinfabio lost connection: Disconnected
+[12:13:24] [Server thread/INFO]: ichbinfabio left the game
