@@ -1,68 +1,85 @@
-[09:27:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:27:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:27:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:27:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:27:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:27:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:27:17] [Worker-Main-2/INFO]: Loaded 7 recipes
-[09:27:17] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[09:27:20] [Server thread/INFO]: Starting minecraft server version 1.18.2 Pre-release 3
-[09:27:20] [Server thread/INFO]: Loading properties
-[09:27:20] [Server thread/INFO]: Default game type: SURVIVAL
-[09:27:20] [Server thread/INFO]: Generating keypair
-[09:27:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:27:20] [Server thread/INFO]: Using epoll channel type
-[09:27:20] [Server thread/INFO]: Preparing level "world"
-[09:27:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:27:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:27:38] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[09:27:39] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[09:27:39] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[09:27:40] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[09:27:40] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[09:27:41] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[09:27:41] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[09:27:42] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[09:27:42] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[09:27:43] [Worker-Main-2/INFO]: Preparing spawn area: 28%
-[09:27:43] [Worker-Main-2/INFO]: Preparing spawn area: 44%
-[09:27:44] [Worker-Main-2/INFO]: Preparing spawn area: 70%
-[09:27:44] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[09:27:46] [Server thread/INFO]: Time elapsed: 15440 ms
-[09:27:46] [Server thread/INFO]: Done (25.219s)! For help, type "help"
-[09:29:22] [User Authenticator #1/INFO]: UUID of player ichbinfabio is 8e349899-9614-499b-bafe-e5722d434c64
-[09:29:23] [Server thread/INFO]: ichbinfabio[/84.128.115.36:57313] logged in with entity id 329 at (-3260.7792176239254, 127.05381991521318, -2484.240402248417)
-[09:29:23] [Server thread/INFO]: ichbinfabio joined the game
-[09:29:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
-[09:29:38] [Server thread/INFO]: ichbinfabio fell out of the world
-[09:29:38] [Server thread/INFO]: [ichbinfabio: Killed ichbinfabio]
-[09:29:51] [Server thread/INFO]: [ichbinfabio: Set own game mode to Survival Mode]
-[09:34:00] [Server thread/INFO]: [ichbinfabio: Set the time to 1000]
-[09:34:29] [Server thread/INFO]: [ichbinfabio: Applied effect Night Vision to ichbinfabio]
-[09:34:45] [Server thread/INFO]: [ichbinfabio: Applied effect Water Breathing to ichbinfabio]
-[09:37:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
-[09:37:29] [Server thread/WARN]: ichbinfabio moved too quickly! 7.536999127634203,1.252203340253729,-6.68865925929029
-[09:38:57] [Server thread/INFO]: [ichbinfabio: Applied effect Speed to ichbinfabio]
-[09:39:44] [Server thread/INFO]: [ichbinfabio: Applied effect Night Vision to ichbinfabio]
-[09:46:12] [Server thread/INFO]: [ichbinfabio: Teleported ichbinfabio to -182.736560, 100.000000, -363.599870]
-[09:48:30] [Server thread/INFO]: [ichbinfabio: Applied enchantment Silk Touch to ichbinfabio's item]
-[09:50:47] [Server thread/INFO]: ichbinfabio has made the advancement [Total Beelocation]
-[09:58:23] [Server thread/INFO]: ichbinfabio fell out of the world
-[09:58:23] [Server thread/INFO]: [ichbinfabio: Killed ichbinfabio]
-[09:58:58] [Server thread/INFO]: ichbinfabio lost connection: Disconnected
-[09:58:58] [Server thread/INFO]: ichbinfabio left the game
+[08:25:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:25:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:25:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:25:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:25:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:25:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:25:46] [Worker-Main-6/INFO]: Loaded 7 recipes
+[08:25:46] [Worker-Main-6/INFO]: Loaded 1141 advancements
+[08:25:49] [Server thread/INFO]: Starting minecraft server version 1.18.2 Pre-release 3
+[08:25:49] [Server thread/INFO]: Loading properties
+[08:25:49] [Server thread/INFO]: Default game type: SURVIVAL
+[08:25:49] [Server thread/INFO]: Generating keypair
+[08:25:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:25:50] [Server thread/INFO]: Using epoll channel type
+[08:25:50] [Server thread/INFO]: Preparing level "world"
+[08:25:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:25:53] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:25:53] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:25:53] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:25:53] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:25:53] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:25:53] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:25:53] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:25:54] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:25:54] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[08:25:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:25:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:25:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:25:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[08:25:57] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[08:25:57] [User Authenticator #1/INFO]: UUID of player ichbinfabio is 8e349899-9614-499b-bafe-e5722d434c64
+[08:25:57] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[08:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[08:25:58] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[08:25:59] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[08:25:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[08:26:00] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[08:26:00] [Worker-Main-4/INFO]: Preparing spawn area: 17%
+[08:26:01] [Worker-Main-5/INFO]: Preparing spawn area: 30%
+[08:26:01] [Worker-Main-4/INFO]: Preparing spawn area: 40%
+[08:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 53%
+[08:26:02] [Worker-Main-4/INFO]: Preparing spawn area: 62%
+[08:26:03] [Worker-Main-5/INFO]: Preparing spawn area: 70%
+[08:26:03] [Worker-Main-4/INFO]: Preparing spawn area: 78%
+[08:26:05] [Server thread/INFO]: Time elapsed: 14434 ms
+[08:26:05] [Server thread/INFO]: Done (14.735s)! For help, type "help"
+[08:26:05] [Server thread/INFO]: ichbinfabio[/84.128.115.36:49420] logged in with entity id 213 at (-3244.2618928507222, 63.0, -832.3763079094324)
+[08:26:06] [Server thread/INFO]: ichbinfabio joined the game
+[08:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4518ms or 90 ticks behind
+[08:26:45] [User Authenticator #2/INFO]: UUID of player DieBollwerk is 54749177-d250-442c-917e-b427adc6a1c9
+[08:26:45] [Server thread/INFO]: DieBollwerk[/141.70.110.250:48182] logged in with entity id 460 at (-3377.6600469731093, 76.0, -815.7222085357012)
+[08:26:45] [Server thread/INFO]: DieBollwerk joined the game
+[08:27:03] [Server thread/INFO]: [ichbinfabio: Teleported DieBollwerk to ichbinfabio]
+[08:28:31] [Server thread/INFO]: [ichbinfabio: Teleported DieBollwerk to ichbinfabio]
+[08:28:31] [Server thread/WARN]: DieBollwerk moved too quickly! -38.31053643418136,4.0,-48.19533351243433
+[08:37:02] [Server thread/INFO]: DieBollwerk lost connection: Disconnected
+[08:37:02] [Server thread/INFO]: DieBollwerk left the game
+[08:39:41] [User Authenticator #3/INFO]: UUID of player DieBollwerk is 54749177-d250-442c-917e-b427adc6a1c9
+[08:39:41] [Server thread/INFO]: DieBollwerk[/141.70.110.250:34495] logged in with entity id 5847 at (-3396.417774071715, 46.0, -844.183667029963)
+[08:39:41] [Server thread/INFO]: DieBollwerk joined the game
+[08:47:03] [Server thread/INFO]: [ichbinfabio: Teleported DieBollwerk to ichbinfabio]
+[08:47:49] [Server thread/INFO]: [ichbinfabio: Teleported DieBollwerk to ichbinfabio]
+[08:50:21] [Server thread/INFO]: [ichbinfabio: Teleported DieBollwerk to ichbinfabio]
+[08:51:50] [Server thread/INFO]: [ichbinfabio: Teleported DieBollwerk to ichbinfabio]
+[08:54:21] [Server thread/INFO]: Villager bnw['Villager'/10021, l='ServerLevel[world]', x=-3245.72, y=63.50, z=-475.63] died, message: 'Villager suffocated in a wall'
+[08:57:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
+[08:57:24] [Server thread/WARN]: DieBollwerk moved too quickly! 1.5994286439172356,0.5292232112077713,-10.076094365071299
+[08:58:00] [Server thread/INFO]: [ichbinfabio: Teleported ichbinfabio to DieBollwerk]
+[08:58:11] [Server thread/INFO]: [ichbinfabio: Teleported 2 entities to -791.500000, 63.000000, -3015.500000]
+[08:58:11] [Server thread/WARN]: DieBollwerk moved too quickly! 2068.459913967306,0.0,-1786.462340142804
+[08:58:11] [Server thread/WARN]: ichbinfabio moved too quickly! 2063.762254252754,0.0,-1787.1797709008426
+[08:58:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3230ms or 64 ticks behind
+[09:11:26] [Server thread/INFO]: [ichbinfabio: Teleported DieBollwerk to ichbinfabio]
+[09:16:37] [Server thread/INFO]: [ichbinfabio: Teleported DieBollwerk to ichbinfabio]
+[09:29:04] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1508, y=53, z=-148} gj{x=-1508, y=54, z=-148}
+[09:29:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1508, y=40, z=-148} gj{x=-1508, y=41, z=-148}
+[09:29:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1508, y=38, z=-148} gj{x=-1508, y=39, z=-148}
+[09:29:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1508, y=38, z=-148} gj{x=-1508, y=39, z=-148}
+[09:29:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1508, y=35, z=-148} gj{x=-1508, y=36, z=-148}
+[09:29:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1508, y=33, z=-148} gj{x=-1508, y=34, z=-148}
+[09:29:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1508, y=33, z=-148} gj{x=-1508, y=34, z=-148}
+[09:29:30] [Server thread/INFO]: DieBollwerk lost connection: Disconnected
+[09:29:30] [Server thread/INFO]: DieBollwerk left the game
+[09:30:24] [Server thread/INFO]: ichbinfabio lost connection: Disconnected
+[09:30:24] [Server thread/INFO]: ichbinfabio left the game
