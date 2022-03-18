@@ -187,3 +187,17 @@
 [22:05:48] [Server thread/INFO]: [ichbinfabio: Applied enchantment Protection IV to ichbinfabio's item]
 [22:06:05] [Server thread/INFO]: [ichbinfabio: Applied enchantment Mending to ichbinfabio's item]
 [22:06:09] [Server thread/INFO]: [ichbinfabio: Applied enchantment Unbreaking III to ichbinfabio's item]
+[22:14:16] [Server thread/INFO]: ichbinfabio was slain by Vindicator
+[22:14:21] [Server thread/INFO]: Villager bnw['Villager'/65215, l='ServerLevel[world]', x=1093.50, y=64.00, z=2865.46] died, message: 'Villager was slain by Vindicator'
+[22:14:23] [Server thread/INFO]: Villager bnw['Farmer'/65856, l='ServerLevel[world]', x=1112.57, y=64.00, z=2872.30] died, message: 'Farmer was slain by Vindicator'
+[22:14:34] [Server thread/INFO]: ichbinfabio was slain by Vindicator
+[22:14:48] [Server thread/INFO]: Villager bnw['Butcher'/65858, l='ServerLevel[world]', x=1092.56, y=64.00, z=2861.49] died, message: 'Butcher was slain by Vindicator'
+[22:17:26] [Server thread/INFO]: DieBollwerk was slain by Vex
+[22:20:02] [Server thread/INFO]: Villager bnw['Farmer'/65862, l='ServerLevel[world]', x=1097.56, y=64.00, z=2882.70] died, message: 'Farmer was slain by ichbinfabio'
+[22:20:27] [Server thread/INFO]: ichbinfabio fell out of the world
+[22:20:27] [Server thread/INFO]: [ichbinfabio: Killed ichbinfabio]
+[22:20:32] [Server thread/INFO]: [ichbinfabio: Teleported DieBollwerk to ichbinfabio]
+[22:21:14] [Server thread/INFO]: ichbinfabio lost connection: Disconnected
+[22:21:14] [Server thread/INFO]: ichbinfabio left the game
+[22:21:17] [Server thread/INFO]: DieBollwerk lost connection: Disconnected
+[22:21:17] [Server thread/INFO]: DieBollwerk left the game
